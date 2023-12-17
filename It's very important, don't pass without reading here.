@@ -4,9 +4,14 @@ In this section, add the main directory of GTA V after the colon.
 Add your mods to a separate folder where it says "modss:"
 and write its directory after the colon.
 
+adremoSettings.txt and adremo.exe must be in the same directory,
+the program is set accordingly.
 
 
 programı kullanırken adremoSettings.txt diye bir dosya olacak
 "patch:" bu kısma iki noktadan sonra GTA V in ana dizinini
 buraya ekleyin ve "modss:" yazan yerdede modlarınızı ayrı bir klasöre
 alın ve onun dizinini iki noktadan sonrasına yazın.
+
+adremoSettings.txt ile adremo.exe aynı dizinde olmalıdır
+program ona göre ayarlı
