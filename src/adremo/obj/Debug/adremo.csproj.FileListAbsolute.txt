@@ -1,0 +1,11 @@
+C:\Users\serkan\source\repos\adremo\adremo\bin\Debug\adremo.exe.config
+C:\Users\serkan\source\repos\adremo\adremo\bin\Debug\adremo.exe
+C:\Users\serkan\source\repos\adremo\adremo\bin\Debug\adremo.pdb
+C:\Users\serkan\source\repos\adremo\adremo\obj\Debug\adremo.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\adremo\adremo\obj\Debug\adremo.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\adremo\adremo\obj\Debug\adremo.exe
+C:\Users\serkan\source\repos\adremo\adremo\obj\Debug\adremo.pdb
+C:\Users\serkan\source\repos\adremo\adremo\bin\Debug\adremo.exe.manifest
+C:\Users\serkan\source\repos\adremo\adremo\bin\Debug\adremo.application
+C:\Users\serkan\source\repos\adremo\adremo\obj\Debug\adremo.exe.manifest
+C:\Users\serkan\source\repos\adremo\adremo\obj\Debug\adremo.application
