@@ -2,7 +2,7 @@ In order to enter GTA 5 online, you need to delete the mods, but if you enter th
 you will either be banned or your account will be permanently banned, and as it is known,
 it is not that easy to delete the mods. Not only will you waste a lot of time, but also if you delete the wrong file,
 the time you will spend to repair your game will be incredible. I developed a program for myself, 
-but why shouldn't I present this program to you? It only works in Epicgames. I would like to thank @akif9748 for his contributions in copying the files while developing the program.
+but why shouldn't I present this program to you? It only works in Epicgames. I would like to thank @Akif9748 for his contributions in copying the files while developing the program.
 If it wasn't for his help, it would keep saying access error :d but unfortunately the first option in the program is What can we say about not being able to copy only the folders?
 C# is not developed in this regard :D So it would be better if you copy the mods manually.
 In the next update, there will be an update that will be able to copy both Steam, Social Club and folders.
@@ -17,7 +17,7 @@ Anyway,
 GTA 5 online girebilmek için modları silmeniz gerekmektedir fakat modları silmeden girerseniz ya ip ban veya hesabınız kalıcı olarak banlanmakta ve bilindiği üzere modları silmekte o kadar kolay değil
 baya bir zamanınızı harcamakla kalmayıp aynı zamanda yanlış dosyayı silerseniz de bu sefer oyununuzu tamir etmek için geçireceğiniz süre akıl almayacak boyutta
 onun için bir kendim için program geliştirdim fakat bu programı size neden sunmayayım ve sizlerin yararınıza bu programı sundum sadece epicgames de çalışmakta
-programı geliştirirken @akif9748 in dosyaları kopyalama konusundaki katkılarından teşşekürederim onun yardımı olmasa sürekli erişim hatası diyip duracaktı :d
+programı geliştirirken @Akif9748 in dosyaları kopyalama konusundaki katkılarından teşşekürederim onun yardımı olmasa sürekli erişim hatası diyip duracaktı :d
 ama ne yazıkki programdaki birinci seçenek sadece klasörleri kopyalayamamakta ne diyelim c# bu konuda gelişmemiş:d
 o yüzden modları siz elinizle kopyalasanız daha iyi olacaktır sonraki güncellemede hem steam , social club  ve klasörleri kopyalayabilecek şekilde bir güncelleme gelecek unutmadan söyliyeyim
 size denemeniz için birde oyun dosyalarının sadece adları ve epic games e entegre edilmiş toplamı 20 kb olan dosyayı atıcam ki kodları okumayı bilmeyen arkadaşımız programın
@@ -26,3 +26,4 @@ neyse
               iyi günler ve 
               iyi eğlenceler.
             
+https://github.com/Akif9748
